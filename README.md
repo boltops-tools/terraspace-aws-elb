@@ -25,6 +25,11 @@ To update the modules to the latest version from the Terraform registry.
 
     terraspace bundle update
 
+## List Examples
+
+    $ terraspace list
+    app/stacks/complete
+
 ## About
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
