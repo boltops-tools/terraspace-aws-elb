@@ -1,0 +1,7 @@
+---
+elb:
+  source: terraform-aws-modules/elb/aws
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-elb
+  sha: dc19975b2362367906100fa04b958f009df8eef9
